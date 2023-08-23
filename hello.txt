@@ -1,5 +1,3 @@
 Hello World
 
 Ini kolabolator
-
-Ini fork
