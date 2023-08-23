@@ -8,4 +8,4 @@ Squash2
 
 Squash3
 
-Ini code review
+INI CODE REVIEW
