@@ -1,3 +1,5 @@
 Hello World
 
 Ini kolabolator
+
+Squash1
