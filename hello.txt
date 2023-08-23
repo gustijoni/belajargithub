@@ -3,3 +3,5 @@ Hello World
 Ini kolabolator
 
 Squash1
+
+Squash2
